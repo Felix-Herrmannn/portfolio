@@ -173,6 +173,23 @@ export const DATA = {
         "/bombernyan.mp4",
     },
     {
+      title: "Casse-brique",
+      href: "",
+      dates: "Avril 2024 - Mai 2024",
+      active: true,
+      description:
+        "Réalisé en binôme avec un partenaire, nous avons recréé le fameux jeu de casse-brique. Celui-ci fonctionne en lisant des grilles au format txt et on peut donc facilement créer de nouveaux niveaux, les briques ont plusieurs niveaux de résistance et divers bonus sont disponibles.",
+      technologies: [
+        "C++",
+        "SDL",
+      ],
+      links: [
+      ],
+      image: "",
+      video:
+        "/modegeo.mp4",
+    },
+    {
       title: "Projet Racine de 3",
       href: "",
       dates: "Novembre 2024 - Janvier 2025",
