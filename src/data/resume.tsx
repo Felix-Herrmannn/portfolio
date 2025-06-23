@@ -173,6 +173,65 @@ export const DATA = {
         "/bombernyan.mp4",
     },
     {
+      title: "Pétanque en RV",
+      href: "",
+      dates: "Février 2025 - Juillet 2025",
+      active: true,
+      description:
+        "Réalisée dans le cadre de mon stage de fin de Master, cette application m'a servi de base pour une expérimentation sur la présence sociale, elle fonctionne sur casque et sur dispositif de type CAVE. Elle fonctionne en multijoueur avec un serveur Unity ainsi qu'un serveur Node.js pour la physique",
+      technologies: [
+        "Unity",
+        "C#",
+        "JavaScript",
+        "Node.js",
+        "XR Interaction Toolkit",
+        "Netcode for GameObjects"
+      ],
+      links: [
+      ],
+      image: "",
+      video:
+        "/petanque.mp4",
+    },
+    {
+      title: "Application de transport en RV",
+      href: "",
+      dates: "Février 2025 - Juillet 2025",
+      active: true,
+      description:
+        "Réalisée dans le cadre de mon stage de fin de Master, cette application fonctionne en multijoueur avec un serveur Unity ainsi qu'un serveur Node.js pour la physique. Le concept est d'attraper une plate-forme à l'aide de corde et de la transporter d'un point A à un point B en binôme, en faisant tomber le moins de cube possible",
+      technologies: [
+        "Unity",
+        "C#",
+        "JavaScript",
+        "Node.js",
+        "XR Interaction Toolkit",
+        "Netcode for GameObjects"
+      ],
+      links: [
+      ],
+      image: "",
+      video:
+        "/petanque.mp4",
+    },
+    {
+      title: "Lecteur de Données de RV",
+      href: "",
+      dates: "Mai 2023 - Juillet 2023",
+      active: true,
+      description:
+        "Réalisée pour mon stage de fin de licence, cette application lit des données depuis un fichier csv correspondant aux positions de différents éléments d'une personne en réalité virtuelle à chaque frame, et elle rejoue ces mouvements à la manière d'un lecteur de vidéo tout en pouvante se déplacer dans la scène",
+      technologies: [
+        "Unity",
+        "C#",
+      ],
+      links: [
+      ],
+      image: "",
+      video:
+        "/lecteur.mp4",
+    },
+    {
       title: "Casse-brique",
       href: "",
       dates: "Avril 2024 - Mai 2024",
@@ -190,6 +249,24 @@ export const DATA = {
         "/modegeo.mp4",
     },
     {
+      title: "Culture de carottes en RV",
+      href: "",
+      dates: "Novembre 2024 - Janvier 2025",
+      active: true,
+      description:
+        "Projet de réalité virtuelle réalisé en binôme dans lequel il est possible de faire pousser des carottes à l'aide de graines et d'outils (bêche, arosoir)",
+      technologies: [
+        "Unity",
+        "C#",
+        "XR Interaction Toolkit"
+      ],
+      links: [
+      ],
+      image: "",
+      video:
+        "/modegeo.mp4",
+    },
+    {
       title: "Projet Racine de 3",
       href: "",
       dates: "Novembre 2024 - Janvier 2025",
@@ -198,6 +275,56 @@ export const DATA = {
         "Projet de modélisation géométrique dans lequel il était demandé de créer un octaèdre et de lui appliquer différentes transformations telles que du découpage ou basculement d'arêtes, ou encore de la triangulation de face. Dans le but final de pouvoir appliquer des subdivisions de type loop et racine de 3.",
       technologies: [
         "JavaScript",
+      ],
+      links: [
+      ],
+      image: "",
+      video:
+        "/modegeo.mp4",
+    },
+    {
+      title: "Projet Sponza",
+      href: "",
+      dates: "Novembre 2023 - Janvier 2024",
+      active: true,
+      description:
+        "Projet de rendu d'une scène en 3D en utilisant des techniques de rasterization via différentes passes de shaders (vertex shader, geometry shader, fragment shader)",
+      technologies: [
+        "C++",
+        "GLSL"
+      ],
+      links: [
+      ],
+      image: "",
+      video:
+        "/modegeo.mp4",
+    },
+    {
+      title: "Projet Montecarlo",
+      href: "",
+      dates: "Novembre 2023 - Janvier 2024",
+      active: true,
+      description:
+        "Projet de rendu d'une scène en 3D contenant notamment des textures réfléchissantes en implémentant un lancer de rayon et la méthode de Montecarlo",
+      technologies: [
+        "C++",
+        "GLSL"
+      ],
+      links: [
+      ],
+      image: "",
+      video:
+        "/modegeo.mp4",
+    },
+    {
+      title: "Suivi d'un objet par une caméra",
+      href: "",
+      dates: "Novembre 2023 - Janvier 2024",
+      active: true,
+      description:
+        "Projet de vision par ordinateur permettant de suivre les mouvements d'un objet sur une caméra en implémentant l'algorithme Camshift",
+      technologies: [
+        "Python",
       ],
       links: [
       ],
