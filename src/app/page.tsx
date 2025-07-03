@@ -123,7 +123,7 @@ export default function Page() {
                   
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Voici une liste de différents projets sur lesquels j'ai pu travaillé au cours de mes études.
+                  Voici une liste de différents projets sur lesquels j&apos;ai pu travaillé au cours de mes études.
                 </p>
               </div>
             </div>
