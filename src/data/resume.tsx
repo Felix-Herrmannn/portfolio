@@ -13,16 +13,16 @@ export const DATA = {
     "Récemment diplômé d'un Master Informatique, Image et 3D, j'ai eu l'occasion de réaliser différents projets que j'ai pu rassembler sur cette page. N'hésitez pas à y jeter un oeil.",
   avatarUrl: "/moi.png",
   skills: [
-    "C",
-    "C++",
-    "C#",
-    "Python",
-    "JavaScript",
     "Unity",
+    "C#",
+    "C++",
     "Godot",
+    "Python",
+    "C",
+    "JavaScript",
+    "Unreal Engine",
     "Blender",
     "Node.js",
-    "Unreal Engine",
     "GLSL"
   ],
   navbar: [
@@ -96,33 +96,33 @@ export const DATA = {
   ],
   education: [
     {
-      school: "Université de Strasbourg",
+      school: "Master Informatique, Image et 3D",
       href: "https://mathinfo.unistra.fr/formations/master/master-informatique/odf-parcours-image-et-3d-i3d-PR37-18105/",
-      degree: "Master Informatique, Image et 3D",
+      degree: "Université de Strasbourg",
       logoUrl: "/ufr.jpg",
       start: "2023",
       end: "2025",
     },
     {
-      school: "Université de Strasbourg",
+      school: "Licence Informatique",
       href: "https://mathinfo.unistra.fr/formations/licence/informatique/",
-      degree: "Licence Informatique",
+      degree: "Université de Strasbourg",
       logoUrl: "/ufr.jpg",
       start: "2020",
       end: "2023",
     },
     {
-      school: "Université de Strasbourg",
+      school: "Cursus Master Ingénierie - Informatique, Image, Réalité Virtuelle, Interactions et Jeux",
       href: "https://mathinfo.unistra.fr/formations/cursus-master-ingenierie-en-informatique/odf-parcours-cursus-master-ingenierie-cmi-informatique-image-realite-virtuelle-interactions-et-jeux-PR1234-18114/",
-      degree: "Cursus Master Ingénierie - Informatique, Image, Réalité Virtuelle, Interactions et Jeux",
+      degree: "Université de Strasbourg",
       logoUrl: "/ufr.jpg",
       start: "2020",
       end: "2023",
     },
     {
-      school: "Le Gymnase Jean Sturm",
+      school: "Baccalauréat Scientifique spécialité Informatique et Sciences du Numérique",
       href: "https://legymnase.eu/",
-      degree: "Baccalauréat Scientifique spécialité Informatique et Sciences du Numérique",
+      degree: "Le Gymnase Jean Sturm",
       logoUrl: "/sturm.png",
       start: "2017",
       end: "2020",
@@ -264,7 +264,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "/modegeo.mp4",
+        "/carot.mp4",
     },
     {
       title: "Projet Racine de 3",
@@ -297,7 +297,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "/modegeo.mp4",
+        "/sponza.mp4",
     },
     {
       title: "Projet Montecarlo",
@@ -314,7 +314,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "/modegeo.mp4",
+        "/montecarlo.mp4",
     },
     {
       title: "Suivi d'un objet par une caméra",
@@ -330,7 +330,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "/modegeo.mp4",
+        "/vision.mp4",
     },
   ],
 } as const;
