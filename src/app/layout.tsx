@@ -55,6 +55,19 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <meta charSet="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta
+          name="description"
+          content="Récemment diplômé d'un Master Informatique, Image et 3D, j'ai eu l'occasion de réaliser différents projets que j'ai pu rassembler sur cette page. N'hésitez pas à y jeter un oeil."
+        />
+        <meta name="author" content="Herrmann Félix" />
+        <meta name="keywords" content="Herrmann Félix, développeur, portfolio, sites web, 3D, image, réalité virtuelle" />
+        <link rel="canonical" href="https://felix-herrmann-portfolio.vercel.app/" />
+        <link rel="icon" href="moi.ico" type="image/x-icon" />
+
+      </head>
       <body
         className={cn(
           "min-h-screen bg-background font-sans antialiased max-w-2xl mx-auto py-12 sm:py-24 px-6",
