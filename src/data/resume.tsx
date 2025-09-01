@@ -29,7 +29,7 @@ export const DATA = {
     { href: "/", icon: HomeIcon, label: "Home" },
   ],
   contact: {
-    email: "felix.herrmann@etu.unistra.fr",
+    email: "felix.herrmann.pro@gmail.com",
     tel: "06 52 92 92 31",
     social: {
       GitHub: {
@@ -48,7 +48,7 @@ export const DATA = {
       },
       email: {
         name: "Send Email",
-        url: "mailto:felix.herrmann@etu.unistra.fr",
+        url: "mailto:felix.herrmann.pro@gmail.com",
         icon: Icons.email,
 
         navbar: false,
