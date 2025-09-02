@@ -166,7 +166,7 @@ export default function Page() {
                   href={DATA.contact.social.email.url}
                   className="text-blue-500 hover:underline"
                 >
-                  felix.herrmann@etu.unistra.fr
+                  felix.herrmann.pro@gmail.com
                 </Link>{" "}
                 ou via mon numéro de téléphone 06 52 92 92 31.
               </p>
