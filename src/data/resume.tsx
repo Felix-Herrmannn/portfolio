@@ -243,6 +243,11 @@ export const DATA = {
         "SDL",
       ],
       links: [
+        {
+          type: "Source",
+          href: "https://git.unistra.fr/r.toscano/casse-brique",
+          icon: <Icons.github className="size-3" />,
+        },
       ],
       image: "",
       video:
@@ -299,6 +304,11 @@ export const DATA = {
         "JavaScript",
       ],
       links: [
+        {
+          type: "Source",
+          href: "https://github.com/Felix-Herrmannn/racine-de-3",
+          icon: <Icons.github className="size-3" />,
+        },
       ],
       image: "",
       video:
@@ -339,6 +349,27 @@ export const DATA = {
         "/montecarlo.mp4",
     },
     {
+      title: "Création et manipulation de figure géométrique 2D",
+      href: "",
+      dates: "Novembre 2023 - Janvier 2024",
+      active: true,
+      description:
+        "Application permettant de créer une forme géométrique, de manipuler ses sommets, subdiviser ses arêtes ainsi que la remplir",
+      technologies: [
+        "C",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/Felix-Herrmannn/projet-fain",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video:
+        "/fain.mp4",
+    },
+    {
       title: "Suivi d'un objet par une caméra",
       href: "",
       dates: "Novembre 2023 - Janvier 2024",
@@ -349,6 +380,11 @@ export const DATA = {
         "Python",
       ],
       links: [
+        {
+          type: "Source",
+          href: "https://github.com/Felix-Herrmannn/Camshift",
+          icon: <Icons.github className="size-3" />,
+        },
       ],
       image: "",
       video:
