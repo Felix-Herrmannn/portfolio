@@ -249,6 +249,28 @@ export const DATA = {
         "/casse-brique.mp4",
     },
     {
+      title: "Projet Metamorph",
+      href: "",
+      dates: "Octobre 2022 - Décembre 2022",
+      active: true,
+      description:
+        "Projet non terminé d'un jeu de plate-forme où le protagoniste aurait eu différentes transformations s'inspirant d'animaux, le seul ayant été terminé dans le temps imparti étant la grenouille sous une forme de grappin",
+      technologies: [
+        "Unreal Engine 5",
+        "Blueprint",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://git.unistra.fr/jismailova/metamorph",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video:
+        "/metamorph.mp4",
+    },
+    {
       title: "Culture de carottes en RV",
       href: "",
       dates: "Novembre 2024 - Janvier 2025",
