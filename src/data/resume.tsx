@@ -370,6 +370,22 @@ export const DATA = {
         "/fain.mp4",
     },
     {
+      title: "Animation d'une courte scénette",
+      href: "",
+      dates: "Novembre 2021 - Décembre 2021",
+      active: true,
+      description:
+        "Petit projet d'animation en Low-Poly réalisé sur Blender",
+      technologies: [
+        "Blender",
+      ],
+      links: [
+      ],
+      image: "",
+      video:
+        "/animation.mp4",
+    },
+    {
       title: "Suivi d'un objet par une caméra",
       href: "",
       dates: "Novembre 2023 - Janvier 2024",
