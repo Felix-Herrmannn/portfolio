@@ -383,7 +383,7 @@ export const DATA = {
       ],
       image: "",
       video:
-        "/animation.avi",
+        "/animation.mp4",
     },
     {
       title: "Suivi d'un objet par une caméra",
