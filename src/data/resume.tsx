@@ -130,6 +130,29 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Pandora Corp.",
+      href: "",
+      dates: "Novembre 2025 - Février 2026",
+      active: true,
+      description:
+        "Pandora Corp. est un jeu d'horreur liminale et de réflexion réalisé durant mon temps libre. Cette expérience se veut être un hommage à l'horreur d'internet dans son ensemble avec de nombreuses références et méchanismes typiques. Le jeu a été réalisé sur Unity et les modèles avec Blender.",
+      technologies: [
+        "Unity",
+        "C#",
+        "Blender",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://felixgamms.itch.io/pandora-corp",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "",
+      video:
+        "/pandoracorp.mp4",
+    },
+    {
       title: "Meta-PM",
       href: "",
       dates: "Octobre 2024 - Janvier 2025",
